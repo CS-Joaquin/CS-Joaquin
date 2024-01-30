@@ -1,5 +1,8 @@
 - 👋 Hi, My name is @CS-Joaquin
-- 👀 I’m an aspiring Full Stack Developer with interests in Data Analysis as well
+- 👀 I’m an aspiring student interested in :
+- Full Stack Development
+- Data Analysis
+- Cyber Security
 - 📫 You can contact me via:
 - Email: payumo.joaquin15@gmail.com
 
